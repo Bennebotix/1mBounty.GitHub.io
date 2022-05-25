@@ -7,5 +7,5 @@ This Is The Hub For Cool Projects I Made. Below Is A List I Forked. Not Made By 
 [[Tabs Ripoff Game]](/Tabs-Ripoff)                                                                     
 [[Dune Game]](/dune-game)                                                                        
 [[Pogo Parkour]](/Pogo-Parkour)                                    
-[[Ball Blast]](/Ball-Blast)                                    
-[[Escape Game]](/Escape-Game)                                              
+[[**Ball Blast**]](/Ball-Blast)                                    
+[[**Escape Game**]](/Escape-Game)                                              
